@@ -1,0 +1,10 @@
+{
+  "appId": "com.church.app",
+  "appName": "Church Songbook",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
